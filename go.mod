@@ -1,4 +1,4 @@
-module code.cloudfoundry.org/cli
+module github.com/DaAlbrecht/cf-cli
 
 go 1.21
 
